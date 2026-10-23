@@ -1,66 +1,65 @@
 
-## Hi there, I'm Luis Sánchez👋
+# ¡Hola! Soy Luis Sánchez 👋
 
-<img align="right" src="https://avatars.githubusercontent.com/u/230259741?v=4" width="150" />
+<img align="right" src="https://avatars.githubusercontent.com/u/230259741?v=4" width="130" alt="Mi avatar de GitHub" />
 
-### 🧑‍💻 :collision: **About me**
+### 👨‍💻 Sobre mí
 
-* :computer: **Software Engineer**  
-* :school: [**Hibridge**](https://hybridge.education/)  
-* :round_pushpin: [Mexico, State of Mexico](https://www.google.com/maps/place/Estado+de+M%C3%A9xico/@19.3216595,-100.924502,8z/data=!3m1!4b1!4m6!3m5!1s0x85cd8992c0eb0a3b:0xc2fef9be9fc5a857!8m2!3d19.4968732!4d-99.7232673!16zL20vMDFnZmhr?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D)
-* :email: [ssail.vcs.1@gmail.com](mailto:ssail.vcs.1@gmail.com)
+- Estudiante de **Ingeniería de Software** en [Hybridge Education](https://hybridge.education/), México. 🇲🇽
 
-Passionate software development student | Building skills in automation, data structures, documentation, and project tracking
+Estoy aprendiendo desarrollo de software mediante el estudio, la experimentación y la creación de mis propios proyectos.
 
 ---
 
-### 🛠️ **Languages**
+### 🛠️ Tecnologías que estoy aprendiendo y utilizando
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998) <!-- Amarillo con logo azul -->
-![SQL](https://img.shields.io/badge/SQL-FF6F00?style=for-the-badge&logo=postgresql&logoColor=white) <!-- Naranja -->
-![HTML5](https://img.shields.io/badge/HTML5-FF4B2B?style=for-the-badge&logo=html5&logoColor=white) <!-- Rojo anaranjado -->
-![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white) <!-- Azul fuerte -->
-![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white) <!-- Azul con gris -->
+**Lenguajes y desarrollo web**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-### 📄 Documentation
+**Backend y bases de datos**
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Herramientas y documentación**
 
-### ⚙️ Tools and Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 💻 Command Line
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white)
 
 ---
 
-### 🌐 :card_index: My Network
+### 📂 Proyectos y aprendizaje
 
-I'm always open to networking and professional opportunities. Feel free to reach out:
+| | Descripción |
+|:---|:---|
+| 🗓️ **[Vatos con Sesos (VCS)](https://github.com/Ssail-1/vatos-con-sesos)** | Mi proyecto personal más grande hasta ahora. Una aplicación web en desarrollo para organizar actividades y hábitos, que también incluye un espacio de documentación sobre desarrollo web. |
+| 📚 **Apuntes y prácticas** | Repositorios donde comparto mis apuntes, ejercicios y prácticas de programación. Algunos están terminados y otros continúan en desarrollo como parte de mi aprendizaje. |
+
+**📖 Repositorios de aprendizaje**
+
+- 📗 [PlatziNotes](https://github.com/Ssail-1/PlatziNotes) — Cursos de Platzi.
+- 🍂 [CoursesDaltoDevLab](https://github.com/Ssail-1/CoursesDaltoDevLab) — Cursos de Soy Dalto.
+
+---
+
+### 📫 Contacto
+
+Siempre estoy abierto a conocer personas, compartir conocimientos, vivir nuevas experiencias y explorar oportunidades para seguir aprendiendo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-isa%C3%ADas-sanchez-salinas-098623219/)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssail.vcs.1@gmail.com)
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssail-1&show_icons=true&hide_rank=true&custom_title=Ssail-1&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssail-1&layout=compact&theme=tokyonight) |
 | --- | --- |
-| 🔥 ![GitHub Streak](https://streak-stats.demolab.com?user=Ssail-1&theme=tokyonight&hide_border=true) | |
-
-### :rocket: :chart_with_upwards_trend: My current projects
-
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.vatosconsesos.com%2F)
-
-Check out my public repositories below :arrow_heading_down: :arrow_heading_down: :arrow_heading_down:
